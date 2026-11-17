@@ -50,7 +50,7 @@ This repository represents my ongoing learning process. I will continue updating
 
 Learning consistently. Practising continuously. Growing towards Cyber Security.
 
-Author: Nadith
+Author: Nadith <br/>
 University: SLIIT – Faculty of Computing
 Focus: Python Programming | Cyber Security
 
