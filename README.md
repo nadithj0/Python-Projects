@@ -46,11 +46,12 @@ Planned areas include:
 
 ## 📚 Learning Journey
 
-This repository represents my continuous learning journey in Python programming and cybersecurity.
+This repository represents my ongoing learning process. I will continue updating it with new concepts, exercises, and practical projects as I progress in my Cyber Security journey.
 
-New projects, improvements, and updates will be added regularly.
+Learning consistently. Practising continuously. Growing towards Cyber Security.
+
+Author: Nadith
+University: SLIIT – Faculty of Computing
+Focus: Python Programming | Cyber Security
 
 
-## ⭐ Support
-
-If you find these projects useful, feel free to explore the repository and follow my learning journey!
