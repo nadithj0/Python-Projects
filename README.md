@@ -30,6 +30,12 @@ This repository contains a collection of Python projects developed as part of my
 - **Concepts:** Conditional Statements, Loops, Strings, Functions.
 - **Level:** Beginner
 
+### 3. Password Generator
+
+- **Description:** A Python-based application that generates strong and random passwords using a combination of letters, numbers, and special characters.
+- **Concepts:** Random Module, Strings, Loops, Lists, String Manipulation.
+- **Level:** Beginner
+  
 ## 🚀 Upcoming Projects
 
 More Python projects will be added as I continue learning and developing my programming and cybersecurity skills.
